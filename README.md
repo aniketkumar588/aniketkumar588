@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket Kumar
-- 👀 I’m interested in Math,cricket and 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Math,cricket and coding
+- - 🌱 I’m currently learning java
 - 😄 Pronouns: ...he/his
 -  Always be happy
 funFact: "Every Fact became Fun Fact when you read facts in funny mood 😄.",
